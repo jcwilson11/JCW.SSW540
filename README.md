@@ -1,6 +1,6 @@
-# **Joris Wilson: SSW %40 - Fundamentals of Software Engineering**
+# **Joris Wilson: SSW 540 - Fundamentals of Software Engineering**
 
-## This repo will contain all related files and notes to SSW %40, a graduate course at Stevens Institute of Technology
+## This repo will contain all related files and notes to SSW 540, a graduate course at Stevens Institute of Technology
 
 ---
 
