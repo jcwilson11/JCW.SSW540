@@ -3,6 +3,10 @@
 
 ## This repo will contain all related files and notes to SSW 540, a graduate course at Stevens Institute of Technology
 
+## COURSE DESCRIPTION
+This course introduces the subject of software engineering, also known as software development process or software development best practice from a quantitative, i.e., analytic- and metrics-based point of view. Topics include introductions to: software life-cycle process models from the heaviest weight, used on very large projects, to the lightest weight, e.g., extreme programming; industry-standard software engineering tools; teamwork; project planning and management; object-oriented analysis and design. The course is case history and project oriented.
+
+
 ---
 
 ## My name is Joris, and I am a 3rd year computer engineering undergrad at Stevens
